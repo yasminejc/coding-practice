@@ -1,0 +1,13 @@
+body{
+    font-family: cursive;
+    background-color: paleturquoise;
+}
+
+
+.intro-line{
+    font-size: 40px;
+}
+
+#second-line{
+    font-size: 20px;
+}
